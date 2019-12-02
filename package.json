@@ -1,12 +1,13 @@
 {
   "name": "fatberris-dl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download music from fatberris.com.",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "René Hansen",
+  "homepage": "https://github.com/rhardih/fatberris-dl/",
   "license": "MIT",
   "bin": {
     "fatberris-dl": "./bin/index.js"
